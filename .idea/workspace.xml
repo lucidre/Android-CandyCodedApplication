@@ -8,7 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d267ce95-10f0-48cd-84b6-97e42997e41a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601036002047</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=" new update">
+      <created>1601036333019</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601036333019</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -242,10 +248,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="438" y="0" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1366.738@0.0.1366.738" timestamp="1601034521826" />
-    <state x="50" y="0" key="CommitChangelistDialog2" timestamp="1601035998455">
+    <state x="50" y="0" key="CommitChangelistDialog2" timestamp="1601036331119">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="50" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1601035998455" />
+    <state x="50" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1601036331119" />
     <state x="92" y="92" width="1182" height="554" key="DiffContextDialog" timestamp="1601034555897">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -266,10 +272,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1325" height="305" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1601036318129" />
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1601036003713">
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1601036335390">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1601036003713" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1601036335390" />
     <state x="469" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601035022045">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
