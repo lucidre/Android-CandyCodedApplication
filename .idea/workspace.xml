@@ -34,6 +34,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectConfigurationFiles">
     <option name="files">
@@ -55,6 +56,7 @@
   <component name="PropertiesComponent">
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3_XL_API_29" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-10-31T14:03:56.773Z" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
@@ -139,5 +141,13 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="515" y="257" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.738@0.0.1366.738" timestamp="1601024241693" />
+    <state x="50" y="0" key="CommitChangelistDialog2" timestamp="1601024706887">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="50" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1601024706887" />
+    <state x="469" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601024798890">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="469" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1601024798890" />
   </component>
 </project>
